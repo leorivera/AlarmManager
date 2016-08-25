@@ -2,10 +2,8 @@ package com.example.root.servicioandroid;
 
 import android.app.IntentService;
 import android.content.Intent;
-import android.content.Context;
 import android.text.format.DateFormat;
 import android.util.Log;
-import android.widget.Toast;
 
 
 public class MyServiceAndroid extends IntentService {
